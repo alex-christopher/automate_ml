@@ -43,7 +43,9 @@ All contributions, bug reports, bug fixes, documentation improvements, enhanceme
 Or maybe through using pandas you have an idea of your own or are looking for something in the documentation and thinking ‘this can be improved’...you can do something about it!
 
 # Features to improve
-Used only 4-5 libraries without hyperparameter tuning for the final model generation.
-Works only for regression problems 
-Works under progress for classification problems
-Auto code generation for all the steps or all the progess that the user has done has to be generated on its own 
+1. Used only 4-5 libraries without hyperparameter tuning for the final model generation.
+2. Works only for regression problems 
+3. Works under progress for classification problems
+4. Auto code generation for all the steps or all the progess that the user has done has to be generated on its own
+5. Visualization before and after outliers has to be added
+
