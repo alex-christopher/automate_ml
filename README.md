@@ -1,4 +1,5 @@
-# Automate-Machine-Learning
+# OptiML
+This is a package that is developed to automate all the process of Machine Learning to prepare a optimal model on its own.
 
 # What is it?
 automate_ml is a Python package that provides fast model generation for any dataset that contains numerical values in them. It aims to help everyone to create model on their own without most knowledge about Machine Learning and how it works. This package runs on its own and suggest the best algorithm to choose to fit the data that has been processed. 
