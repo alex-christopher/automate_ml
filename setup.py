@@ -5,17 +5,17 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ = "0.0.0"
 
-REPO_NAME = <YOUR REPO NAME>
-AUTHOR_USER_NAME = <YOUR NAME>
-SRC_REPO = <YOUR SOURCE REPO NAME>
-AUTHOR_EMAIL = <AUTHOR MAIL ID>
+REPO_NAME = pyoptiML
+AUTHOR_USER_NAME = alex-christopher
+SRC_REPO = pyoptiML
+AUTHOR_EMAIL = alexchristopher154@gmail.com
 
 setuptools.setup(
     name=SRC_REPO,
     version=__version__,
     author=AUTHOR_USER_NAME,
     author_email=AUTHOR_EMAIL,
-    description="A small python package",
+    description="Machine Learning python package used to generate model on its own",
     long_description=long_description,
     long_description_content="text/markdown",
     url=f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}",
